@@ -49,4 +49,10 @@ e.g.:
 helper.bruteForceCipher('Ymj izpj xujsy 16 djfwx rtinkdnsl ymnx ufwynhzqfw rtijq')
 ```
 
+## Notes:
+I used the letters’ frequency values from:
+http://pi.math.cornell.edu/~mec/2003-2004/cryptography/subs/frequencies.html
+
+I tested from text in the following article:
+https://www.bbc.com/news/uk-56762822
 
